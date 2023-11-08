@@ -1,0 +1,17 @@
+.make
+{
+    color: orange;
+}
+.Anuruddh
+{
+    font-family: 'Inter';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.myul
+{
+    .two-column-list li {
+        columns: 2;
+    }
+}
